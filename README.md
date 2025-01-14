@@ -1,14 +1,14 @@
 # Flappy Bird Clone
 
-This repository contains a clone of the popular Flappy Bird game, built using Python and Pygame. This project is a fun way to practice and showcase full-stack development skills.
+This repository contains a clone of the popular Flappy Bird game, built using Python and Pygame. This project is a fun way to practice and showcase python and pygame skills.
 
 ## Features
 
-- **Customizable Drawing Tools**: Users can personalize their drawing experience by adjusting tool type, line width, and color.
-- **Shape and Text Integration**: Easily add shapes and text to your canvas for a more structured and informative display.
-- **Sticky Note Management**: Organize your ideas with interactive sticky notes that can be added, moved, and edited.
-- **Dark Mode Support**: Switch to dark mode for a more comfortable viewing experience, especially in low-light environments.
-- **Canvas Locking**: Secure your work by locking the canvas, preventing any further edits and ensuring your content remains unchanged.
+- **Interactive Gameplay**: Enjoy the classic Flappy Bird experience where players navigate the bird through obstacles by flapping its wings.
+- **Responsive Controls**: Use the `Space` or `Up arrow` keys to flap the bird's wings and navigate through the game.
+- **Score Display**: Keep track of your progress with a real-time score display as you navigate through the pipes.
+- **Multiple Pipe Obstacles**: Face various challenges with randomly generated pipes in different positions.
+- **Sound Effects**: Enhance your gameplay experience with engaging sound effects for wing flaps, points, and collisions.
 
 ## Prerequisites
 
